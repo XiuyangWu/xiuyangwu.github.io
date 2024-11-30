@@ -21,19 +21,17 @@ redirect_from:
     color: #333;
   }
 
-  .container {
+  /* 使About Me部分靠左 */
+  .content {
     max-width: 960px;
     margin: 40px auto;
-    padding: 20px;
-    background-color: #ffffff;
-    border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 0 20px;
   }
 
   h1 {
     font-size: 36px;
     color: #333;
-    text-align: center;
+    text-align: left;
     margin-bottom: 20px;
   }
 
@@ -69,7 +67,7 @@ redirect_from:
 
   .cv-btn {
     display: inline-block;
-    background-color: #4CAF50;
+    background-color: #00c9a7;
     color: #fff;
     padding: 10px 20px;
     font-size: 18px;
@@ -80,7 +78,7 @@ redirect_from:
   }
 
   .cv-btn:hover {
-    background-color: #45a049;
+    background-color: #00b395;
   }
 
   .footer {
@@ -91,7 +89,7 @@ redirect_from:
   }
 
   .footer a {
-    color: #4CAF50;
+    color: #00c9a7;
     text-decoration: none;
   }
 
@@ -111,7 +109,7 @@ redirect_from:
 </style>
 
 <!-- 页面内容 -->
-<div class="container">
+<div class="content">
   <h1><i class="fas fa-user"></i> About Me</h1>
   <p>Hello! I'm currently a 4<sup>th</sup>-year undergraduate student at <a href="https://www.ahu.edu.cn/" target="_blank">Anhui University</a>, enrolled in the <a href="https://si.ahu.edu.cn/" target="_blank">School of Internet</a>, where I'm pursuing a major in <strong>Data Science and Big Data Technology</strong>. I'm ready to be a master's student at the <strong>Shenzhen International Graduate School of Tsinghua University</strong> (<a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">SIGS</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank">THU</a>) in Shenzhen!</p>
 
