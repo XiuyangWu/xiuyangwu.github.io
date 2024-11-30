@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My Educational Path
+My Educational Journey
 ======
 * M.S. in HeFei 168 Rose Garden school, 2015-2018  
   ![HeFei 168 Rose Garden](/images/HeFei_168_Rose_Garden.jpg)
