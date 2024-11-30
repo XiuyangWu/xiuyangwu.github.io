@@ -1,6 +1,6 @@
 ---
 title: "My 2023 Forest"
-excerpt: "Every tree is a testament to personal growth.<br/><img src='/images/2023 Forest.jpg'>"
+excerpt: "Every tree is a testament to personal growth.<br/><img src='/images/2023_Forest.jpg'>"
 collection: portfolio
 ---
 
