@@ -15,29 +15,29 @@ body {
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 30px; /* 调整标题字体大小 */
   color: #333;
   text-align: left;
-  margin-bottom: 20px;
+  margin-bottom: 15px; /* 调整标题下方的间距 */
 }
 
 h1 i {
   margin-right: 10px;
-  font-size: 1.3em;
+  font-size: 1.1em; /* 图标字体大小调整 */
   color: #3596b5;
 }
 
 p {
-  font-size: 18px;
+  font-size: 16px; /* 调整段落字体大小 */
   line-height: 1.6;
   color: #555;
-  margin: 20px 0;
+  margin: 15px 0; /* 调整段落上下的间距 */
 }
 
 h2 {
-  font-size: 28px;
+  font-size: 24px; /* 调整子标题字体大小 */
   color: #333;
-  margin-top: 40px;
+  margin-top: 30px; /* 调整子标题的上边距 */
   text-align: left;
 }
 
@@ -47,16 +47,16 @@ ul {
 }
 
 ul li {
-  font-size: 18px;
-  margin-bottom: 10px;
+  font-size: 16px; /* 调整列表项字体大小 */
+  margin-bottom: 8px; /* 调整列表项之间的间距 */
 }
 
 .cv-btn {
   display: inline-block;
   background-color: #4ffbdf;
   color: #fff;
-  padding: 10px 20px;
-  font-size: 18px;
+  padding: 8px 16px; /* 调整按钮的内边距 */
+  font-size: 16px; /* 调整按钮字体大小 */
   border-radius: 5px;
   text-decoration: none;
   text-align: center;
@@ -68,8 +68,8 @@ ul li {
 }
 
 .footer {
-  margin-top: 40px;
-  font-size: 16px;
+  margin-top: 30px; /* 调整底部区域的间距 */
+  font-size: 14px; /* 调整底部文字大小 */
   text-align: center;
   color: #777;
 }
@@ -80,12 +80,12 @@ ul li {
 }
 
 .news-item {
-  margin-bottom: 15px;
-  font-size: 18px;
+  margin-bottom: 12px; /* 调整新闻项之间的间距 */
+  font-size: 16px; /* 调整新闻项字体大小 */
 }
 
 .news-date {
-  font-size: 14px;
+  font-size: 12px; /* 调整日期字体大小 */
   color: #888;
 }
 
