@@ -32,6 +32,12 @@ Research Interests
 
 - **Artificial Intelligence**: My research focuses on digital humans powered by large language models, aiming to enhance interactive experiences and improve the realism of virtual characters in AI-driven environments.
 
+Educations
+======
+- 2021.09 - Now, Undergraduate, School of Internet, Anhui University, China (GPA:4.29/5.0, Rank:2/125)
+
 For more info
 ------
 For more information about me, please don't hesitate to drop me an email. I'm always open to engaging conversations and new connections!
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iWZNlAh7-GBW2ofRciRtIPLAhdYW39-yf2XFem63TQU&cl=ffffff&w=a"></script>
