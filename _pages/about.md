@@ -41,7 +41,7 @@ redirect_from:
   </ul>
 
   <h2><i class="fas fa-graduation-cap"></i> Education</h2>
-  <p><strong>2021.09 - Now:</strong> Undergraduate, School of Internet, Anhui University, China (GPA: 4.29/5.0, Rank: 2/125)</p
+  <p><strong>2021.09 - Now:</strong> Undergraduate, School of Internet, Anhui University, China (GPA: 4.29/5.0, Rank: 2/125)</p>
   <a href="/files/XiuyangWu's_CV.pdf" class="cv-btn">Download My CV (PDF)</a>
 
   <div class="footer">
