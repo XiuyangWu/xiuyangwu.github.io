@@ -36,6 +36,8 @@ Educations
 ======
 - 2021.09 - Now, Undergraduate, School of Internet, Anhui University, China (GPA:4.29/5.0, Rank:2/125)
 
+Feel free to download [my CV (PDF)](/files/XiuyangWu's_CV.pdf)
+
 For more info
 ------
 For more information about me, please don't hesitate to drop me an email. I'm always open to engaging conversations and new connections!
