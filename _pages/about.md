@@ -17,7 +17,7 @@ redirect_from:
 
 <!-- 页面内容 -->
 <div class="content">
-  <h1><i class="fas fa-user"></i> About Me</h1>
+  <h1><i class="fas fa-user" style="color: #00d2fc;"></i> About Me</h1> <!-- 蓝色 -->
   <p>Hello! I'm currently a 4<sup>th</sup>-year undergraduate student at <a href="https://www.ahu.edu.cn/" target="_blank">Anhui University</a>, enrolled in the <a href="https://si.ahu.edu.cn/" target="_blank">School of Internet</a>, where I'm pursuing a major in <strong>Data Science and Big Data Technology</strong>. I'm ready to be a master's student at the <strong>Shenzhen International Graduate School of Tsinghua University</strong> (<a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">SIGS</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank">THU</a>) in Shenzhen!</p>
 
   <p>My academic pursuits are anchored in the study of <strong>graph neural networks</strong>, <strong>knowledge graphs</strong>, <strong>artificial intelligence</strong>, and <strong>Digital Human and Large Language Model</strong>.</p>
@@ -33,14 +33,14 @@ redirect_from:
     <li class="news-item"><span>May, 2024:</span> <strong>Meritorious Winner</strong>, 2024 Mathematical Contest In Modeling & Interdisciplinary Contest In Modeling (MCM/ICM).</li>
   </ul>
 
-  <h2><i class="fas fa-flask" style="color: #2196F3;"></i> Research Interests</h2> <!-- 蓝色 -->
+  <h2><i class="fas fa-flask" style="color: #845ec2;"></i> Research Interests</h2> <!-- 紫色 -->
   <ul>
     <li><strong>Graph Neural Networks</strong>: I explore the use of graph neural networks for financial data analysis, extending to areas like market trend prediction and financial network analysis.</li>
     <li><strong>Knowledge Graphs</strong>: I specialize in developing knowledge graphs for the financial sector, aiming to improve decision-making with a focus on a project called “GraphFinAl,” similar to ChatGPT but tailored for finance.</li>
     <li><strong>Artificial Intelligence</strong>: My research focuses on digital humans powered by large language models, aiming to enhance interactive experiences and improve the realism of virtual characters in AI-driven environments.</li>
   </ul>
 
-  <h2><i class="fas fa-graduation-cap" style="color: #FF5722;"></i> Education</h2> <!-- 红色 -->
+  <h2><i class="fas fa-graduation-cap" style="color: #ee005f;"></i> Education</h2> <!-- 红色 -->
   <p><strong>2021.09 - Now:</strong> Undergraduate, School of Internet, Anhui University, China (GPA: 4.29/5.0, Rank: 2/125)</p>
   <!-- 按钮居中 -->
   <div style="text-align: center;">
