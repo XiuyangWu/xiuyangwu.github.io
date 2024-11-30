@@ -24,7 +24,7 @@ redirect_from:
 
   <p><em>"When you can see the future, just hold on a little longer than others!"</em></p>
 
-  <h2><i class="fas fa-newspaper"></i> Recent News</h2>
+  <h2><i class="fas fa-newspaper" style="color: #FF9800;"></i> Recent News</h2> <!-- 橙色 -->
   <ul>
     <li class="news-item"><span>Nov, 2024:</span> "THE DYNAMICAL BEHAVIORS OF A STOCHASTIC MUMPS INFECTIOUS DISEASE MODEL" accepted to <strong>Mathematical Methods in the Applied Sciences (MMA)</strong>!</li>
     <li class="news-item"><span>Oct, 2024:</span> "SEHG: Bridging Interpretability and Prediction in Self-Explainable Heterogeneous Graph Neural Networks" Submitted to <strong>WWW2025</strong>!</li>
@@ -33,14 +33,14 @@ redirect_from:
     <li class="news-item"><span>May, 2024:</span> <strong>Meritorious Winner</strong>, 2024 Mathematical Contest In Modeling & Interdisciplinary Contest In Modeling (MCM/ICM).</li>
   </ul>
 
-  <h2><i class="fas fa-flask"></i> Research Interests</h2>
+  <h2><i class="fas fa-flask" style="color: #2196F3;"></i> Research Interests</h2> <!-- 蓝色 -->
   <ul>
     <li><strong>Graph Neural Networks</strong>: I explore the use of graph neural networks for financial data analysis, extending to areas like market trend prediction and financial network analysis.</li>
     <li><strong>Knowledge Graphs</strong>: I specialize in developing knowledge graphs for the financial sector, aiming to improve decision-making with a focus on a project called “GraphFinAl,” similar to ChatGPT but tailored for finance.</li>
     <li><strong>Artificial Intelligence</strong>: My research focuses on digital humans powered by large language models, aiming to enhance interactive experiences and improve the realism of virtual characters in AI-driven environments.</li>
   </ul>
 
-  <h2><i class="fas fa-graduation-cap"></i> Education</h2>
+  <h2><i class="fas fa-graduation-cap" style="color: #FF5722;"></i> Education</h2> <!-- 红色 -->
   <p><strong>2021.09 - Now:</strong> Undergraduate, School of Internet, Anhui University, China (GPA: 4.29/5.0, Rank: 2/125)</p>
   <!-- 按钮居中 -->
   <div style="text-align: center;">
