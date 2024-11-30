@@ -17,6 +17,7 @@ redirect_from:
 
 <!-- 页面内容 -->
 <div class="content">
+  <h1><i class="fas fa-user"></i> About Me</h1>
   <p>Hello! I'm currently a 4<sup>th</sup>-year undergraduate student at <a href="https://www.ahu.edu.cn/" target="_blank">Anhui University</a>, enrolled in the <a href="https://si.ahu.edu.cn/" target="_blank">School of Internet</a>, where I'm pursuing a major in <strong>Data Science and Big Data Technology</strong>. I'm ready to be a master's student at the <strong>Shenzhen International Graduate School of Tsinghua University</strong> (<a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">SIGS</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank">THU</a>) in Shenzhen!</p>
 
   <p>My academic pursuits are anchored in the study of <strong>graph neural networks</strong>, <strong>knowledge graphs</strong>, <strong>artificial intelligence</strong>, and <strong>Digital Human and Large Language Model</strong>.</p>
@@ -44,7 +45,6 @@ redirect_from:
   <a href="/files/XiuyangWu's_CV.pdf" class="cv-btn">Download My CV (PDF)</a>
 
   <div class="footer">
-    <h2>For more info</h2>
     <p>For more information about me, please feel free to <a href="mailto:your-email@example.com">email me</a>. I'm always open to engaging conversations and new connections!</p>
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iWZNlAh7-GBW2ofRciRtIPLAhdYW39-yf2XFem63TQU&cl=ffffff&w=a"></script>
   </div>
