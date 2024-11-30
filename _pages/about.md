@@ -40,6 +40,27 @@ redirect_from:
     <li><strong>Artificial Intelligence</strong>: My research focuses on digital humans powered by large language models, aiming to enhance interactive experiences and improve the realism of virtual characters in AI-driven environments.</li>
   </ul>
 
+  <h2><i class="fas fa-trophy" style="color: #ffbb33;"></i> Scholarships and Honors</h2> <!-- 金色 -->
+  <p><strong>Scholarships (Selected)</strong></p>
+  <ul>
+    <li><strong>National Scholarship (国家奖学金)</strong>, Ministry of Education, 2024.  
+      The China National Scholarship is the highest national-level honor for university students, awarded to only 0.2% of recipients.</li>
+    <li><strong>National Scholarship (国家奖学金)</strong>, Ministry of Education, 2023.  
+      The China National Scholarship is the highest national-level honor for university students, awarded to only 0.2% of recipients.</li>
+    <li><strong>Outstanding Student Leader (优秀学生干部标兵)</strong>, Anhui University, 2023.  
+      Recognized as an exemplary student leader for outstanding leadership and contributions to student activities at Anhui University.</li>
+  </ul>
+  <p><strong>Competitive Programming (Selected)</strong></p>
+  <ul>
+    <li><strong>Meritorious Winner</strong> in Mathematical Contest In Modeling & Interdisciplinary Contest In Modeling (MCM/ICM), 2024.</li>
+    <li><strong>National Second Prize</strong> in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2023.</li>
+  </ul>
+  <p><strong>Sports (Selected)</strong></p>
+  <ul>
+    <li><strong>1st Place</strong> in the First "Physical Fitness Model" Test at Anhui University, 2023.</li>
+    <li><strong>Outstanding Individual</strong> in the 2022 Undergraduate Military Skills Training.</li>
+  </ul>
+  
   <h2><i class="fas fa-graduation-cap" style="color: #ee005f;"></i> Education</h2> <!-- 红色 -->
   <p><strong>2021.09 - Now:</strong> Undergraduate, School of Internet, Anhui University, China (GPA: 4.29/5.0, Rank: 2/125)</p>
   <!-- 按钮居中 -->
