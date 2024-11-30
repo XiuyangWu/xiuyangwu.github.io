@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV (PDF)](/files/XiuyangWu's_CV.pdf)
-
-Education
+My Educational Path
 ======
 * M.S. in HeFei 168 Rose Garden school, 2015-2018  
   ![HeFei 168 Rose Garden](/images/HeFei_168_Rose_Garden.jpg)
