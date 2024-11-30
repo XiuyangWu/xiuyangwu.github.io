@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a 4th-year undergraduate student at [Anhui University](https://www.ahu.edu.cn/), enrolled in the [School of Internet](https://si.ahu.edu.cn/), where I'm pursuing a major in **Data Science and Big Data Technology**. I'm ready to be a master student at the **Shenzhen International Graduate School of Tsinghua University** ([SIGS](https://www.sigs.tsinghua.edu.cn/), [THU](https://www.tsinghua.edu.cn/)) in Shenzhen!
+Hello! I'm currently a 4<sup>th</sup>-year undergraduate student at [Anhui University](https://www.ahu.edu.cn/), enrolled in the [School of Internet](https://si.ahu.edu.cn/), where I'm pursuing a major in **Data Science and Big Data Technology**. I'm ready to be a master student at the **Shenzhen International Graduate School of Tsinghua University** ([SIGS](https://www.sigs.tsinghua.edu.cn/), [THU](https://www.tsinghua.edu.cn/)) in Shenzhen!
 
 My academic pursuits are anchored in the study of **graph neural networks**, **knowledge graphs**, **artificial intelligence** and **Digital Human and Large Language Model**. 
 
