@@ -21,7 +21,7 @@ repository               : "XiuyangWu/xiuyangwu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Opening_ceremony.jpg" # "xiuyangwu.png"
+  avatar           : "xiuyangwu.png"
   name             : "Xiuyang Wu (吴修杨)"
   pronouns         : # example: "she/her"  
   bio              : "Hi there! I am an undergrad @ SOI degree in Data Science and Big Date Technology."
