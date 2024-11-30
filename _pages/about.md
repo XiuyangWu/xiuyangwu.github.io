@@ -42,7 +42,10 @@ redirect_from:
 
   <h2><i class="fas fa-graduation-cap"></i> Education</h2>
   <p><strong>2021.09 - Now:</strong> Undergraduate, School of Internet, Anhui University, China (GPA: 4.29/5.0, Rank: 2/125)</p>
-  <a href="/files/XiuyangWu's_CV.pdf" class="cv-btn">Download My CV (PDF)</a>
+  <!-- 按钮居中 -->
+  <div style="text-align: center;">
+    <a href="/files/XiuyangWu's_CV.pdf" class="cv-btn">Download My CV (PDF)</a>
+  </div>
 
   <div class="footer">
     <p>For more information about me, please feel free to <a href="mailto:your-email@example.com">email me</a>. I'm always open to engaging conversations and new connections!</p>
