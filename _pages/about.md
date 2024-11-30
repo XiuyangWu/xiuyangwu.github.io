@@ -33,7 +33,7 @@ redirect_from:
     <li class="news-item"><span>May, 2024:</span> <strong>Meritorious Winner</strong>, 2024 Mathematical Contest In Modeling & Interdisciplinary Contest In Modeling (MCM/ICM).</li>
   </ul>
 
-  <h2><i class="fas fa-flask" style="color: #4ffbdf;"></i> Research Interests</h2> <!-- 绿色 -->
+  <h2><i class="fas fa-flask" style="color: #00c9a7;"></i> Research Interests</h2> <!-- 绿色 -->
   <ul>
     <li><strong>Graph Neural Networks</strong>: I explore the use of graph neural networks for financial data analysis, extending to areas like market trend prediction and financial network analysis.</li>
     <li><strong>Knowledge Graphs</strong>: I specialize in developing knowledge graphs for the financial sector, aiming to improve decision-making with a focus on a project called “GraphFinAl,” similar to ChatGPT but tailored for finance.</li>
