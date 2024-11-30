@@ -1,6 +1,6 @@
 ---
 title: "My 2024 Postgraduate recommendation"
-excerpt: "Patient is key in life.<br/><img src='/images/Postgraduate recommendation.png'><br/><img src='/images/Tsinghua.png'>"
+excerpt: "Patient is key in life.<br/><img src='/images/Postgraduate_recommendation.png'><br/><img src='/images/Tsinghua.png'>"
 collection: portfolio
 ---
 
