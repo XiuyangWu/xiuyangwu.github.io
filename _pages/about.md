@@ -12,12 +12,11 @@ redirect_from:
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <!-- 引入外部CSS文件 -->
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="/styles.css">
 </head>
 
 <!-- 页面内容 -->
 <div class="content">
-  <h1><i class="fas fa-user"></i> About Me</h1>
   <p>Hello! I'm currently a 4<sup>th</sup>-year undergraduate student at <a href="https://www.ahu.edu.cn/" target="_blank">Anhui University</a>, enrolled in the <a href="https://si.ahu.edu.cn/" target="_blank">School of Internet</a>, where I'm pursuing a major in <strong>Data Science and Big Data Technology</strong>. I'm ready to be a master's student at the <strong>Shenzhen International Graduate School of Tsinghua University</strong> (<a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">SIGS</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank">THU</a>) in Shenzhen!</p>
 
   <p>My academic pursuits are anchored in the study of <strong>graph neural networks</strong>, <strong>knowledge graphs</strong>, <strong>artificial intelligence</strong>, and <strong>Digital Human and Large Language Model</strong>.</p>
