@@ -12,7 +12,7 @@ redirect_from:
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <!-- 引入外部CSS文件 -->
-  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="_pages/styles.css">
 </head>
 
 <!-- 页面内容 -->
