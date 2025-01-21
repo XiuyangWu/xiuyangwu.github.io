@@ -26,8 +26,9 @@ redirect_from:
 
   <h2><i class="fas fa-newspaper" style="color: #009efa;"></i> Recent News</h2> <!-- 深蓝色 -->
   <ul>
+    <li class="news-item"><span>Jan, 2025:</span> "SEHG: Bridging Interpretability and Prediction in Self-Explainable Heterogeneous Graph Neural Networks" was accepted to <strong>WWW 2025 (CCF-A)</strong> as an oral presentation!</li>
+    <li class="news-item"><span>Jan, 2025:</span> A self-introduction titled "[Role Model Leadership · National Scholarship Student Showcase](https://mp.weixin.qq.com/s/KC52AzP-bgkbZzKUD91YVg)" has been published on a public WeChat account.</li>
     <li class="news-item"><span>Nov, 2024:</span> "THE DYNAMICAL BEHAVIORS OF A STOCHASTIC MUMPS INFECTIOUS DISEASE MODEL" accepted to <strong>Mathematical Methods in the Applied Sciences (MMA)</strong>!</li>
-    <li class="news-item"><span>Oct, 2024:</span> "SEHG: Bridging Interpretability and Prediction in Self-Explainable Heterogeneous Graph Neural Networks" Submitted to <strong>WWW2025</strong>!</li>
     <li class="news-item"><span>Sep 29, 2024:</span> Recommended for admission to <strong>Tsinghua University’s</strong> Master’s in <strong>Computer Technology (085404)</strong>!</li>
     <li class="news-item"><span>Sep, 2024:</span> Awarded <strong>National Scholarship</strong> by Ministry of Education (0.2%)</li>
     <li class="news-item"><span>May, 2024:</span> <strong>Meritorious Winner</strong>, 2024 Mathematical Contest In Modeling & Interdisciplinary Contest In Modeling (MCM/ICM).</li>
