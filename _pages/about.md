@@ -25,9 +25,6 @@ redirect_from:
     <p>
       My research interests primarily focus on <strong>Multimodal Large Models</strong>, <strong>Computer Vision</strong>, <strong>Video Generation, and Graph Neural Networks.</strong>.
     </p>
-  </p> 
-
-  <p>My academic pursuits are anchored in the study of <strong>graph neural networks</strong>, <strong>knowledge graphs</strong>, <strong>artificial intelligence</strong>, and <strong>Digital Human and Large Language Model</strong>.</p>
 
   <h2><i class="fas fa-newspaper" style="color: #009efa;"></i> Recent News</h2> <!-- 深蓝色 -->
   <ul>
