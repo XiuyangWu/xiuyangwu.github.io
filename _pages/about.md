@@ -23,7 +23,7 @@ redirect_from:
       I am an incoming Master's student in <strong>Computer Science</strong> (2025-2028) at the <strong>Shenzhen International Graduate School of Tsinghua University</strong> (<a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">SIGS</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank">THU</a>), starting in September 2025. I obtained my Bachelor of Engineering degree in <strong>Data Science and Big Data Technology</strong> from the <a href="https.si.ahu.edu.cn/" target="_blank">School of Internet</a> at <a href="https://www.ahu.edu.cn/" target="_blank">Anhui University</a> (2021-2025).
     </p>
     <p>
-      My research interests primarily focus on <strong>Multimodal Large Models</strong>, <strong>Computer Vision</strong>, <strong>Video Generation, and Graph Neural Networks.</strong>.
+      My research interests primarily focus on <strong>Multimodal Large Models</strong>, <strong>Computer Vision</strong>, <strong>Video Generation, and Graph Neural Networks</strong>.
     </p>
 
   <h2><i class="fas fa-newspaper" style="color: #009efa;"></i> Recent News</h2> <!-- 深蓝色 -->
