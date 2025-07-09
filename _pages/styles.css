@@ -92,3 +92,19 @@ ul li {
 .news-item span {
   font-weight: bold;
 }
+
+/* --- 人生信条/座右铭 样式 --- */
+.motto-quote {
+    border-left: 4px solid #007bff; /* 蓝色左边框 */
+    margin: 1.5rem 0;
+    padding: 0.5rem 1.5rem;
+    background-color: #f8f9fa; /* 淡淡的背景色 */
+    border-radius: 0 8px 8px 0;
+}
+
+.motto-quote p {
+    margin: 0;
+    font-size: 1.1em;
+    font-style: italic;
+    color: #495057; /* 深灰色文字 */
+}
