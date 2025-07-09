@@ -1,94 +1,177 @@
-/* styles.css */
+/* --- 全局和基础样式 --- */
 body {
-  font-family: 'Poppins', sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f8f9fa;
-  color: #333;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.7;
+    background-color: #f8f9fa; /* 更柔和的背景色 */
+    color: #343a40;
 }
 
-/* 使About Me部分靠左 */
-.content {
-  max-width: 960px;
-  margin: 40px auto;
-  padding: 0 20px;
+.custom-content {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 15px;
 }
 
-h1 {
-  font-size: 36px;
-  color: #333;
-  text-align: left;
-  margin-bottom: 20px;
+/* --- 标题和链接 --- */
+.custom-content h2 {
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e9ecef;
+    display: flex;
+    align-items: center;
 }
 
-h1 i {
-  margin-right: 10px;
-  font-size: 1.3em;
-  color: #3596b5;
+.custom-content h2 i {
+    margin-right: 12px;
+    font-size: 1.2em; /* 图标稍大一些 */
 }
 
-p {
-  font-size: 18px;
-  line-height: 1.6;
-  color: #555;
-  margin: 20px 0;
+.custom-content a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease, background-color 0.3s ease;
+    padding: 2px 4px;
+    border-radius: 4px;
 }
 
-h2 {
-  font-size: 28px;
-  color: #333;
-  margin-top: 40px;
-  text-align: left;
+.custom-content a:hover {
+    color: #fff;
+    background-color: #007bff;
 }
 
-ul {
-  list-style-type: none;
-  padding: 0;
+/* --- 卡片式布局 --- */
+.card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    border: 1px solid #e9ecef;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-ul li {
-  font-size: 18px;
-  margin-bottom: 10px;
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+/* --- 特定区域样式 --- */
+.profile-section .quote {
+    font-size: 1.1em;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background-color: #f1f3f5;
+    border-left: 4px solid #00d2fc;
+    border-radius: 0 8px 8px 0;
+}
+
+.education-item {
+    margin-bottom: 0;
+}
+
+.education-item .gpa-rank {
+    font-size: 0.9em;
+    color: #6c757d;
+    background-color: #e9ecef;
+    padding: 3px 8px;
+    border-radius: 12px;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+
+/* --- 列表样式 (新闻, 兴趣, 荣誉) --- */
+.news-list,
+.interest-list,
+.honors-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.news-list li,
+.interest-list li,
+.honors-list li {
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    position: relative;
+    padding-left: 25px;
+}
+
+.news-list li:hover,
+.interest-list li:hover,
+.honors-list li:hover {
+    background-color: #eef7ff;
+    transform: translateX(5px);
+}
+
+/* 列表项前面的小图标 */
+.interest-list li::before,
+.honors-list li::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f005"; /* 星星图标 */
+    position: absolute;
+    left: 0;
+    top: 12px;
+    color: #ffc107;
+}
+
+.interest-list li::before {
+    content: "\f135"; /* 火箭图标 */
+    color: #00c9a7;
+}
+
+.news-list span {
+    font-weight: 600;
+    color: #495057;
+    margin-right: 10px;
+}
+
+/* --- CV 下载按钮 --- */
+.cv-section {
+    text-align: center;
+    margin: 3rem 0;
 }
 
 .cv-btn {
-  display: inline-block;
-  background-color: #4ffbdf;
-  color: #fff;
-  padding: 10px 20px;
-  font-size: 18px;
-  border-radius: 5px;
-  text-decoration: none;
-  text-align: center;
-  margin-top: 20px;
+    font-size: 1.1em;
+    font-weight: 600;
+    color: #fff !important; /* 强制覆盖 a 标签颜色 */
+    background: linear-gradient(45deg, #007bff, #00d2fc);
+    padding: 14px 28px !important; /* 强制覆盖 a 标签 padding */
+    border-radius: 50px;
+    box-shadow: 0 4px 15px rgba(0, 123, 255, 0.3);
+    transition: all 0.3s ease;
 }
 
 .cv-btn:hover {
-  background-color: #4ffbdf;
+    color: #fff !important;
+    background: linear-gradient(45deg, #0056b3, #009efa);
+    box-shadow: 0 6px 20px rgba(0, 123, 255, 0.5);
+    transform: translateY(-3px);
 }
 
-.footer {
-  margin-top: 40px;
-  font-size: 16px;
-  text-align: center;
-  color: #777;
+.cv-btn i {
+    margin-right: 8px;
 }
 
-.footer a {
-  color: #00c9a7;
-  text-decoration: none;
+/* --- 页脚 --- */
+.custom-footer {
+    text-align: center;
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid #e9ecef;
+    color: #6c757d;
 }
 
-.news-item {
-  margin-bottom: 15px;
-  font-size: 18px;
-}
-
-.news-date {
-  font-size: 14px;
-  color: #888;
-}
-
-.news-item span {
-  font-weight: bold;
+.visitor-map {
+    margin-top: 1rem;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
 }
