@@ -37,11 +37,11 @@ redirect_from:
     <li class="news-item"><span>May, 2024:</span> <strong>Meritorious Winner</strong>, 2024 Mathematical Contest In Modeling & Interdisciplinary Contest In Modeling (MCM/ICM).</li>
   </ul>
 
-  <h2><i class="fas fa-flask" style="color: #00c9a7;"></i> Research Interests</h2> <!-- 绿色 -->
+  <h2><i class="fas fa-flask" style="color: #00c9a7;"></i> Research Interests</h2>
   <ul>
-    <li><strong>Graph Neural Networks</strong>: I explore the use of graph neural networks for financial data analysis, extending to areas like market trend prediction and financial network analysis.</li>
-    <li><strong>Knowledge Graphs</strong>: I specialize in developing knowledge graphs for the financial sector, aiming to improve decision-making with a focus on a project called “GraphFinAl,” similar to ChatGPT but tailored for finance.</li>
-    <li><strong>Artificial Intelligence</strong>: My research focuses on digital humans powered by large language models, aiming to enhance interactive experiences and improve the realism of virtual characters in AI-driven environments.</li>
+  <li><strong>Multimodal Large Models</strong>: Focusing on building models that can comprehend, integrate, and reason across diverse data modalities like text, images, and audio.</li>
+  <li><strong>Computer Vision</strong>: Investigating how to enable machines to interpret, understand, and learn from visual data such as images and videos.</li>
+  <li><strong>Video Generation</strong>: Exploring generative models to synthesize high-quality and coherent video content from textual descriptions or image inputs.</li>
   </ul>
 
   <h2><i class="fas fa-trophy" style="color: #ffbb33;"></i> Scholarships and Honors</h2> <!-- 金色 -->
