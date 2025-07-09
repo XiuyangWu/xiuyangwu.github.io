@@ -16,53 +16,67 @@ redirect_from:
 </head>
 
 <!-- 页面内容 -->
-<div class="content">
-  <h2><i class="fas fa-user" style="color: #00d2fc;"></i> About Me</h2> <!-- 浅蓝色 -->
-  <ul>
-  <p>Hello! I'm currently a 4<sup>th</sup>-year undergraduate student at <a href="https://www.ahu.edu.cn/" target="_blank">Anhui University</a>, enrolled in the <a href="https://si.ahu.edu.cn/" target="_blank">School of Internet</a>, where I'm pursuing a major in <strong>Data Science and Big Data Technology</strong>. I'm ready to be a master's student at the <strong>Shenzhen International Graduate School of Tsinghua University</strong> (<a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">SIGS</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank">THU</a>)!</p> 
+<div class="custom-content">
 
-  <p>My academic pursuits are anchored in the study of <strong>graph neural networks</strong>, <strong>knowledge graphs</strong>, <strong>artificial intelligence</strong>, and <strong>Digital Human and Large Language Model</strong>.</p>
-
-  <p><em>"When you can see the future, just hold on a little longer than others!"</em></p>
-
-  <h2><i class="fas fa-newspaper" style="color: #009efa;"></i> Recent News</h2> <!-- 深蓝色 -->
-  <ul>
-    <li class="news-item"><span>Mar, 2025:</span> <a href="https://mp.weixin.qq.com/s/LtoTrgz0sx7yWaeyQ612Mg" target="_blank">Growth Journey of AHU Youth | Wu Xiuyang: Admitted to Tsinghua University! This is Simply the Result of My Dedication.</a></li>
-    <li class="news-item"><span>Jan, 2025:</span> <a href="https://openreview.net/pdf?id=gfqM0MyzLn" target="_blank">SEHG: Bridging Interpretability and Prediction in Self-Explainable Heterogeneous Graph Neural Networks</a> was accepted to <strong>WWW 2025 (CCF-A)</strong> as an oral presentation! </li>
-    <li class="news-item"><span>Jan, 2025:</span> A self-introduction titled "<a href="https://mp.weixin.qq.com/s/KC52AzP-bgkbZzKUD91YVg" target="_blank">Role Model Leadership · National Scholarship Student Showcase</a>" has been published on a public WeChat account.</li>
-    <li class="news-item"><span>Nov, 2024:</span> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.10660" target="_blank">The Dynamical Behaviors of a Stochastic Mumps Infectious Disease Model</a> was accepted to <strong>Mathematical Methods in the Applied Sciences (MMA)</strong>!</li>
-    <li class="news-item"><span>Sep 29, 2024:</span> Recommended for admission to <strong>Tsinghua University’s</strong> Master’s in <strong>Computer Technology (085404)</strong>!</li>
-    <li class="news-item"><span>Sep, 2024:</span> Awarded <strong>National Scholarship</strong> by Ministry of Education (0.2%)</li>
-    <li class="news-item"><span>May, 2024:</span> <strong>Meritorious Winner</strong>, 2024 Mathematical Contest In Modeling & Interdisciplinary Contest In Modeling (MCM/ICM).</li>
-  </ul>
-
-  <h2><i class="fas fa-flask" style="color: #00c9a7;"></i> Research Interests</h2> <!-- 绿色 -->
-  <ul>
-    <li><strong>Graph Neural Networks</strong>: I explore the use of graph neural networks for financial data analysis, extending to areas like market trend prediction and financial network analysis.</li>
-    <li><strong>Knowledge Graphs</strong>: I specialize in developing knowledge graphs for the financial sector, aiming to improve decision-making with a focus on a project called “GraphFinAl,” similar to ChatGPT but tailored for finance.</li>
-    <li><strong>Artificial Intelligence</strong>: My research focuses on digital humans powered by large language models, aiming to enhance interactive experiences and improve the realism of virtual characters in AI-driven environments.</li>
-  </ul>
-
-  <h2><i class="fas fa-trophy" style="color: #ffbb33;"></i> Scholarships and Honors</h2> <!-- 金色 -->
-  <ul>
-    <li><strong>National Scholarship (国家奖学金)</strong>, Ministry of Education, 2024.</li>
-    <li><strong>National Scholarship (国家奖学金)</strong>, Ministry of Education, 2023.</li>
-    <li><strong>Outstanding Student Leader (优秀学生干部标兵)</strong>, Anhui University, 2023.</li>
-    <li><strong>Meritorious Winner</strong> in Mathematical Contest In Modeling & Interdisciplinary Contest In Modeling (MCM/ICM), 2024.</li>
-    <li><strong>National Second Prize</strong> in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2023.</li>
-    <li><strong>1st Place</strong> in the First "Physical Fitness Model" Test at Anhui University, 2023.</li>
-    <li><strong>Outstanding Individual</strong> in the 2022 Undergraduate Military Skills Training, 2022.</li>
-  </ul>
-  
-  <h2><i class="fas fa-graduation-cap" style="color: #ee005f;"></i> Education</h2> <!-- 红色 -->
-  <p><strong>2021.09 - Now:</strong> Undergraduate, School of Internet, Anhui University, China (GPA: 4.29/5.0, Rank: 2/125)</p>
-  <!-- 按钮居中 -->
-  <div style="text-align: center;">
-    <a href="/files/XiuyangWu's_CV.pdf" class="cv-btn">Download My CV (PDF)</a>
+  <div class="profile-section">
+    <div class="profile-text">
+      <h2><i class="fas fa-user" style="color: #00d2fc;"></i> About Me</h2>
+      <p>Hello! I'm a final-year undergraduate at <a href="https://www.ahu.edu.cn/" target="_blank">Anhui University</a>, majoring in <strong>Data Science and Big Data Technology</strong> at the <a href="https://si.ahu.edu.cn/" target="_blank">School of Internet</a>. I am excited to begin my master's studies at the <strong>Shenzhen International Graduate School of Tsinghua University</strong> (<a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">SIGS</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank">THU</a>)!</p>
+      <p>My academic pursuits are anchored in <strong>Graph Neural Networks</strong>, <strong>Knowledge Graphs</strong>, and the exciting intersection of <strong>Digital Humans and Large Language Models</strong>.</p>
+      <p class="quote"><em>"When you can see the future, just hold on a little longer than others!"</em></p>
+    </div>
   </div>
 
-  <div class="footer">
-    <p>For more information about me, please feel free to <a href="mailto:your-email@example.com">email me</a>. I'm always open to engaging conversations and new connections!</p>
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iWZNlAh7-GBW2ofRciRtIPLAhdYW39-yf2XFem63TQU&cl=ffffff&w=a"></script>
+  <div class="card">
+    <h2><i class="fas fa-newspaper" style="color: #009efa;"></i> Recent News</h2>
+    <ul class="news-list">
+      <li><span>Mar, 2025:</span> <a href="https://mp.weixin.qq.com/s/LtoTrgz0sx7yWaeyQ612Mg" target="_blank">Growth Journey of AHU Youth | Admitted to Tsinghua University!</a></li>
+      <li><span>Jan, 2025:</span> Paper on Self-Explainable GNN accepted to <strong>WWW 2025 (CCF-A)</strong> as oral presentation! <a href="https://openreview.net/pdf?id=gfqM0MyzLn" target="_blank">[PDF]</a></li>
+      <li><span>Jan, 2025:</span> Featured in <a href="https://mp.weixin.qq.com/s/KC52AzP-bgkbZzKUD91YVg" target="_blank">"Role Model Leadership · National Scholarship Student Showcase"</a>.</li>
+      <li><span>Nov, 2024:</span> Paper on Stochastic Mumps Model accepted to <strong>Mathematical Methods in the Applied Sciences (MMA)</strong>. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.10660" target="_blank">[Link]</a></li>
+      <li><span>Sep, 2024:</span> Awarded <strong>National Scholarship</strong> (Top 0.2%).</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2><i class="fas fa-flask" style="color: #00c9a7;"></i> Research Interests</h2>
+    <ul class="interest-list">
+      <li><strong>Graph Neural Networks:</strong> Exploring GNNs for financial data analysis, including market prediction and network analysis.</li>
+      <li><strong>Knowledge Graphs:</strong> Developing financial knowledge graphs to enhance decision-making.</li>
+      <li><strong>AI & Digital Humans:</strong> Focusing on digital humans powered by LLMs to create more realistic and interactive virtual characters.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2><i class="fas fa-trophy" style="color: #ffbb33;"></i> Scholarships & Honors</h2>
+    <ul class="honors-list">
+      <li><strong>National Scholarship</strong> (Top 0.2%), Ministry of Education, 2024 & 2023.</li>
+      <li><strong>Outstanding Student Leader</strong>, Anhui University, 2023.</li>
+      <li><strong>Meritorious Winner</strong>, MCM/ICM, 2024.</li>
+      <li><strong>National Second Prize</strong>, CUMCM, 2023.</li>
+      <li><strong>1st Place</strong>, "Physical Fitness Model" Test, Anhui University, 2023.</li>
+    </ul>
+  </div>
+  
+  <div class="card">
+      <h2><i class="fas fa-graduation-cap" style="color: #ee005f;"></i> Education</h2>
+      <p class="education-item">
+        <strong>2021.09 - 2025.06 (Expected):</strong> B.Eng. in Data Science, Anhui University, China.
+        <br>
+        <span class="gpa-rank">GPA: 4.29/5.0 | Rank: 2/125</span>
+      </p>
+  </div>
+
+  <div class="cv-section">
+    <a href="/files/XiuyangWu's_CV.pdf" class="cv-btn">
+      <i class="fas fa-download"></i> Download My CV (PDF)
+    </a>
+  </div>
+
+  <div class="custom-footer">
+    <p>Feel free to <a href="mailto:wuxy24@mails.tsinghua.edu.cn">email me</a>. I'm always open to new connections!</p>
+    <div class="visitor-map">
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iWZNlAh7-GBW2ofRciRtIPLAhdYW39-yf2XFem63TQU&cl=ffffff&w=a"></script>
+    </div>
   </div>
 </div>
