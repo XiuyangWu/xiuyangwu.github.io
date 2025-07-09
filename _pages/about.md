@@ -65,10 +65,10 @@ redirect_from:
   <div class="card">
     <h2><i class="fas fa-quote-left" style="color: #6c757d;"></i> My Mottos</h2>
     <blockquote class="motto-quote">
-        <p>"Patience is the key in life."</p>
+        <p>"When you can see the future, just hold on a little longer than others!"</p>
     </blockquote>
     <blockquote class="motto-quote">
-        <p>"When you can see the future, just hold on a little longer than others!"</p>
+        <p>"Patience is the key in life."</p>
     </blockquote>
   </div>
   
