@@ -71,13 +71,7 @@ redirect_from:
     <a href="/files/XiuyangWu's_CV.pdf" class="cv-btn">Download My CV (PDF)</a>
   </div>
 
-  <div class="footer">
-    <p>For more information about me, please feel free to <a href="mailto:your-email@example.com">email me</a>. I'm always open to engaging conversations and new connections!</p>
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iWZNlAh7-GBW2ofRciRtIPLAhdYW39-yf2XFem63TQU&cl=ffffff&w=a"></script>
-  </div>
-</div>
-
-<div class="card">
+  <div class="card">
     <h2><i class="fas fa-quote-left" style="color: #6c757d;"></i> My Mottos</h2>
     <blockquote class="motto-quote">
         <p>"Patience is the key in life."</p>
@@ -85,4 +79,10 @@ redirect_from:
     <blockquote class="motto-quote">
         <p>"When you can see the future, just hold on a little longer than others!"</p>
     </blockquote>
+  </div>
+  
+  <div class="footer">
+    <p>For more information about me, please feel free to <a href="mailto:your-email@example.com">email me</a>. I'm always open to engaging conversations and new connections!</p>
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iWZNlAh7-GBW2ofRciRtIPLAhdYW39-yf2XFem63TQU&cl=ffffff&w=a"></script>
+  </div>
 </div>
